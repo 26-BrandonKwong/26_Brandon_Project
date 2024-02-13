@@ -6,6 +6,6 @@ public class Next : MonoBehaviour
 {
     public void Nextlevel()
     {
-        SceneManager.LoadScene("SampleScene");
+        //SceneManager.LoadScene("Level2");
     }
 }

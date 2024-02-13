@@ -10,11 +10,6 @@ public class start : MonoBehaviour
     }
     public void Nextlevel()
     {
-        SceneManager.LoadScene("Level2");
+        //SceneManager.LoadScene("Level2");
     }
-    public void ERT()
-    {
-        SceneManager.LoadScene("SampleScene");
-    }
-
 }

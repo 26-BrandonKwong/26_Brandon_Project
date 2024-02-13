@@ -75,7 +75,7 @@ public class Player : MonoBehaviour
             if (score == 5)
             {
                 Debug.Log("You win!");
-                //SceneManager.LoadScene("Level2");
+                SceneManager.LoadScene("WinScene");
             }
         }
             if (collision.gameObject.tag == "Bomb")
