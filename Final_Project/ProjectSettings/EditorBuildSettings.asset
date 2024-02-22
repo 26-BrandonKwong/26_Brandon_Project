@@ -4,5 +4,32 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Brandon/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Brandon/Scenes/LoseScene.unity
+    guid: 9fc22cccc58224545a11343c808a0429
+  - enabled: 1
+    path: Assets/Brandon/Scenes/WinScene.unity
+    guid: c9cb5bbe90a11c144a4702bb4cf46052
+  - enabled: 1
+    path: Assets/anis/Scenes/Level2.unity
+    guid: c8947317d9f3f45acb42472f85409d2c
+  - enabled: 1
+    path: Assets/anis/Scenes/Win.unity
+    guid: 5c9cf02fe14d4c04b8f973efb62c2380
+  - enabled: 1
+    path: Assets/anis/Scenes/Lose.unity
+    guid: 8a50d916a9f15d442b6ca755e0142db3
+  - enabled: 1
+    path: Assets/YanSiang/Scenes/Level 3.unity
+    guid: eb6b539f376bf7d43b1daa6a469adf9b
+  - enabled: 1
+    path: Assets/YanSiang/Scenes/GameWin.unity
+    guid: ba2cb84642c2049449449f22b44e0e26
+  - enabled: 1
+    path: Assets/YanSiang/Scenes/GameLose.unity
+    guid: 1237dcd4de7266c439115c60687aa689
   m_configObjects: {}
